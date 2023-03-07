@@ -1,4 +1,4 @@
-# tangie
+# raml.online
 my portfolio/blog
 
 A personal project, inspired by classmates and Dylan Thomas
